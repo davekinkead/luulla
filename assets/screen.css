@@ -342,7 +342,7 @@ form input {
 form input[type='email'],
 form input[type='text'],
 form input[type='password'] {
-  min-width: 60%;
+  min-width: 70%;
   font-weight: 300;
 }
 form input[type='submit'] {
