@@ -1,0 +1,3 @@
+Sitemap: https://criticalthinking.org.au/sitemap.xml
+User-agent:*
+Disallow:
