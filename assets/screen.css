@@ -148,6 +148,9 @@ section.content:last-of-type {
 .content .list .pdf i.fa-file-pdf {
   display: inline;
 }
+.content .list .course i.fa-chalkboard-teacher {
+  display: inline;
+}
 img.preview {
   max-width: 150px;
   max-height: 150px;
