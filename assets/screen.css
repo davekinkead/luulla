@@ -352,3 +352,11 @@ form input[type='submit'] {
 .tips form {
   margin-bottom: 2.5rem;
 }
+.submission form {
+  margin: 0 auto;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+.submission form input {
+  width: 100%;
+}
